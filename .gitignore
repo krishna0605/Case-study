@@ -1,0 +1,10 @@
+.pytest_cache/
+Miscellaneous/
+
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+
+.env
