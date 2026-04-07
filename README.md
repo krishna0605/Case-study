@@ -2,6 +2,8 @@
 
 This repository contains a structured submission for the Bynry backend engineering case study. The solution is organized by assessment part so each deliverable is easy to review independently.
 
+Case study document: [Google Doc](https://docs.google.com/document/d/1GyoI6bhAg8QzmtcvNXMlwo_pgA-k4kbHdGril3XOB9U/edit?usp=sharing)
+
 ## Repository Layout
 
 - `Part 1/`
