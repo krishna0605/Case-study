@@ -40,17 +40,6 @@ pytest
 
 ## Diagrams
 
-### Submission Artifact Flow
-
-```mermaid
-flowchart TD
-    A["Case study PDF"] --> B["Response document (official submission)"]
-    A --> C["Companion repo (supporting proof)"]
-    C --> B
-    B --> D["Shared doc link in Bynry form"]
-    B --> E["Live walkthrough preparation"]
-```
-
 ### Schema / Entity Relationship Map
 
 ```mermaid
